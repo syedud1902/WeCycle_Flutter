@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "84454061413",
+    "firebase_url": "https://wicycle-9e525.firebaseio.com",
+    "project_id": "wicycle-9e525",
+    "storage_bucket": "wicycle-9e525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84454061413:android:c86da4f1f35b6c7bd55d8c",
+        "android_client_info": {
+          "package_name": "com.example.wecycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84454061413-7lop7batejmudur37suqqvm120olgu5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wecycle",
+            "certificate_hash": "50da1f9393754c0048e1594306ab4ff8478de083"
+          }
+        },
+        {
+          "client_id": "84454061413-6be0rl8m3i9iikvnurql6s9et8oa7aql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPOhuc9F0epsxBSMj9g1LUQ69EnzaNslI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84454061413-6be0rl8m3i9iikvnurql6s9et8oa7aql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84454061413-729079t38l6skvrme4h097am5dga9hui.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tanbelinc.WiCycleApp",
+                "app_store_id": "1418742905"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

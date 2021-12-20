@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>84454061413-729079t38l6skvrme4h097am5dga9hui.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.84454061413-729079t38l6skvrme4h097am5dga9hui</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>84454061413-7lop7batejmudur37suqqvm120olgu5h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCgR0x_GT9tzNtfT_J925CbWM4S5nyxDnc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>84454061413</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tanbelinc.WiCycleApp</string>
+	<key>PROJECT_ID</key>
+	<string>wicycle-9e525</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wicycle-9e525.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:84454061413:ios:3ce98a9ba77503d9</string>
+	<key>DATABASE_URL</key>
+	<string>https://wicycle-9e525.firebaseio.com</string>
+</dict>
+</plist>
