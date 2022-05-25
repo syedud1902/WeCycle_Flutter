@@ -33,6 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
   void initState() {
     super.initState();
     DatabaseService.getUsers();
+    DatabaseService.getProductLocations();
   }
 
   @override

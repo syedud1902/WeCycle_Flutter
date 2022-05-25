@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:wecycle/Database/location.dart';
 import 'package:wecycle/Screens/Chat_Screen/chats_screen_concept.dart';
 import 'Chat_Screen/chats_screen_concept.dart';
 import 'Home_PageScreen/homepage.dart';
@@ -16,6 +17,7 @@ class MainScreenState extends State<MainScreen> {
   int pageIndex = 0;
   List<Widget> pagelist = <Widget>[
     HomePage(),
+    // LocationsPage(),
     ChatScreenConcept(),
     PostScreen(),
     OrdersScreen(),

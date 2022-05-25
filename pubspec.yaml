@@ -29,7 +29,10 @@ dependencies:
   firebase_storage: ^10.0.1
   flutter:
     sdk: flutter
+  fluttertoast: ^8.0.8
+  geolocator: 
   google_sign_in: ^5.0.7
+  location: ^4.3.0
   provider: ^5.0.0
 
 dev_dependencies:

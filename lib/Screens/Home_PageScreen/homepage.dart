@@ -8,6 +8,7 @@ import 'dart:math';
 
 class HomePage extends StatelessWidget {
   final Listitems = List.from(finalProducts);
+  final ListLocations = List.from(prodLocations);
 
   @override
   Widget build(BuildContext context) {
@@ -100,6 +101,7 @@ class HomePage extends StatelessWidget {
                     height: 220,
                     child: Body_Row(
                       products: Listitems,
+                      Locations: ListLocations,
                     ),
                   ),
                 ],
@@ -650,6 +652,7 @@ class HomePage extends StatelessWidget {
               ),
               Body_Row(
                 products: Listitems,
+                Locations: ListLocations,
               ),
               Row(
                 children: [
@@ -685,6 +688,7 @@ class HomePage extends StatelessWidget {
               ),
               Body_Row(
                 products: Listitems,
+                Locations: ListLocations,
               ),
             ],
           ),
