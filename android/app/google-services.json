@@ -15,7 +15,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "84454061413-7lop7batejmudur37suqqvm120olgu5h.apps.googleusercontent.com",
+          "client_id": "**************************************",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.wecycle",
@@ -29,7 +29,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBPOhuc9F0epsxBSMj9g1LUQ69EnzaNslI"
+          "current_key": "**************************"
         }
       ],
       "services": {
